@@ -1,0 +1,10 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.pixcels.pxlewallettester",
+            "sha256_cert_fingerprints": ["66:30:E0:30:48:19:51:FB:F5:51:2E:06:56:40:59:82:3A:6F:44:B7:A2:70:3C:FA:9D:07:D7:8D:2C:0E:FD:BE"]
+        }
+    }
+]
